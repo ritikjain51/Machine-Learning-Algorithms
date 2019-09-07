@@ -1,0 +1,2 @@
+model_checkpoint_path: "Devnagari_NN"
+all_model_checkpoint_paths: "Devnagari_NN"
